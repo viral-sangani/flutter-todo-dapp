@@ -5,7 +5,7 @@
   <a href="https://github.com/viral-sangani/flutter-todo-dapp/network/members">
     <img alt="Forks" src="https://img.shields.io/github/forks/viral-sangani/coding-challenge-2021.svg?style=for-the-badge"/>
   </a>
-  <a href="https://github.co/viral-sangani/coding-challenge-2021r/graphs/contributors">
+  <a href="https://github.com/viral-sangani/flutter-todo-dapp/graphs/contributors">
     <img alt="Contributors" src="https://img.shields.io/github/contributors/viral-sangani/coding-challenge-2021.svg?style=for-the-badge"/>
   </a>
   <a href="https://github.com/viral-sangani/flutter-todo-dapp/issues">
